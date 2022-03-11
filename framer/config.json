@@ -1,0 +1,29 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.29999999999999999,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "deviceType" : "fullscreen",
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "projectId" : "F84FA616-8C8B-4535-9687-628A2A321805",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : 0,
+  "foldedCodeRanges" : [
+    "{0, 317}",
+    "{650, 2190}",
+    "{3105, 855}",
+    "{3961, 488}",
+    "{4450, 377}",
+    "{4828, 1089}",
+    "{5918, 1876}",
+    "{7795, 459}",
+    "{8255, 719}"
+  ],
+  "deviceScale" : 1
+}
